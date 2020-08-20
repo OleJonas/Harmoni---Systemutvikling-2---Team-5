@@ -2,7 +2,7 @@
   "name": "server",
   "version": "0.0.1",
   "dependencies": {
-    "bcrypt": "^3.0.7",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.18.3",
     "bufferutil": "^4.0.1",
     "crypto": "^1.0.1",
